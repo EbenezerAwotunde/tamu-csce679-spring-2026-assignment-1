@@ -30,3 +30,6 @@ Please create a GitHub repository under your GitHub account, and submit the URL 
 # Notes:
 1. You can use AI, and the interaction log with AI and your reflection on how AI is helpful need to be uploaded to your git repo.
 2. D3.js is encouraged, while you can also use other programming language/tool.
+
+# Student's Notes - Oluwole Ebenezer Awotunde
+1. To run please go to "http://localhost:8000/index.html"
